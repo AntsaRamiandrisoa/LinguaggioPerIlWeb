@@ -1,0 +1,23 @@
+h1{
+    color: olivedrab;
+    text-align: center;
+}
+body{
+    background-color: beige;
+    display: block;
+}
+nav{
+    color: aquamarine;
+    font-size: 14px;
+}
+h2 {
+    color: olivedrab;
+    text-align: center;
+}
+#siteHeader {
+    position: relative;
+}
+#menu {
+    background-color:ghostwhite;
+    
+}
